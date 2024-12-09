@@ -1,0 +1,6 @@
+'''
+binary search tree de sol taraf küçük sağ taraf büyük rakamdır.
+time or omega (balance) O(logn) görüş uç uca dizilmiş linkedlist gibi olur (unbalance)***O(n) space O(n)
+
+'''
+
